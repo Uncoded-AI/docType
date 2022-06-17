@@ -1,4 +1,9 @@
+```
+pip install docType
+```
+
+
 ```python
-from docTagger.docTagger import detect_class
+from docType.docType import detect_class
 detect_class(sentence:str)
 ```
